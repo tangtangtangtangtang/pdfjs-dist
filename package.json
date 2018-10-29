@@ -1,5 +1,5 @@
 {
-  "name": "pdfjs-dist",
+  "name": "pdfjs-dist-with-digtal-signature",
   "version": "2.0.489",
   "main": "build/pdf.js",
   "description": "Generic build of Mozilla's PDF.js library.",
